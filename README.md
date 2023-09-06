@@ -1,4 +1,4 @@
-https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif
+![image1](https://github.com/HarizahSyawal/HarizahSyawal/assets/37772347/37031aa1-a3ac-49c8-8739-327a2936ccc5)
 <h1 align="center">Hi 👋, I'm Harizah Syawal</h1>
 <h3 align="center">Hi! I'm Harizah. I am A Fresh Graduate Bachelor Of Computer Science at Universiti Teknologi Malaysia with experience as a mobile developer using Flutter,Xamarin Android Studio and .Net Core/laravel as a backend. I am interested in software development and also towards UI design and try to be a unique-orn where I can do coding and design.</h3>
 
