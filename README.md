@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **Flutter, Android Jetpack Compose, Kotlin, Java, Backend**
 
 - 📫 How to reach me **harisa1701@gmail.com**
+  
+- 👨‍💻 All of my projects are available at https://harizah-syawal.vercel.app/#/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
